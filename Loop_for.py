@@ -1,3 +1,4 @@
+#Loops es un bucle que recorre las posicion de cada elemento
 lista = ['a','b','c']
 for letra in lista:
     numero_letra = lista.index(letra) +1

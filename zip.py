@@ -1,3 +1,4 @@
+#Metodo Zip
 nombres = ['Carlos','Eduardo','Adruskary']
 edades = [25,18,52]
 ciudades = ['Caracas','Maracay','Yaracuy']

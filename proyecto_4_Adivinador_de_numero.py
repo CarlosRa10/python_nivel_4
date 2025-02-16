@@ -1,3 +1,4 @@
+#Reto superado
 from random import *
 
 intentos = 0
